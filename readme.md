@@ -1,0 +1,1 @@
+This is a simple wordpress plugin that let's you translate posts, pages and woocommerce products using Google Cloud Translate API.
