@@ -6,7 +6,7 @@
  * Version: 1.0
  * Author: Andrzej Bednorz
  * Author URI: https://github.com/ndrwbdnz
- * License: GPL2
+ * License: GPL3
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
